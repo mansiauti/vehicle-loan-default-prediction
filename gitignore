@@ -1,0 +1,8 @@
+Data/train.csv
+Data/test.csv
+Data/train.csv.zip
+Data/test.csv.zip
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.streamlit/
